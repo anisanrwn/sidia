@@ -54,7 +54,7 @@
                                                 <img src="/images/logo-pglhk.png" alt="logo" width="175" height="57"/>
                                             </a>                                                                                                                                 
                                         </div>
-                                        <h4 class="text-center">PUSAT PGLHK - SIDIA</h4>
+                                        <h4 class="text-center">PUSAT PGLHK - Kalempong Nisa</h4>
                                         <p class="text-center" style="font-weight: bold; font-size: 1 rem;">Sistem Informasi Adiwiyata</p>
                                         <p class="text-center">Pusat Pengembangan Generasi Lingkungan Hidup dan KehutananBadan Penyuluhan dan Pengembangan SDM</p>
                                         <div class="d-flex gap-3 flex-column my-4">
